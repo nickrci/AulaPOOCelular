@@ -1,0 +1,16 @@
+/home/strongtech/Desktop/AulaPOOCelular/obj/Debug/net5.0/AulaPOOCelular.csprojAssemblyReference.cache
+/home/strongtech/Desktop/AulaPOOCelular/obj/Debug/net5.0/AulaPOOCelular.GeneratedMSBuildEditorConfig.editorconfig
+/home/strongtech/Desktop/AulaPOOCelular/obj/Debug/net5.0/AulaPOOCelular.AssemblyInfoInputs.cache
+/home/strongtech/Desktop/AulaPOOCelular/obj/Debug/net5.0/AulaPOOCelular.AssemblyInfo.cs
+/home/strongtech/Desktop/AulaPOOCelular/obj/Debug/net5.0/AulaPOOCelular.csproj.CoreCompileInputs.cache
+/home/strongtech/Desktop/AulaPOOCelular/bin/Debug/net5.0/AulaPOOCelular
+/home/strongtech/Desktop/AulaPOOCelular/bin/Debug/net5.0/AulaPOOCelular.deps.json
+/home/strongtech/Desktop/AulaPOOCelular/bin/Debug/net5.0/AulaPOOCelular.runtimeconfig.json
+/home/strongtech/Desktop/AulaPOOCelular/bin/Debug/net5.0/AulaPOOCelular.runtimeconfig.dev.json
+/home/strongtech/Desktop/AulaPOOCelular/bin/Debug/net5.0/AulaPOOCelular.dll
+/home/strongtech/Desktop/AulaPOOCelular/bin/Debug/net5.0/ref/AulaPOOCelular.dll
+/home/strongtech/Desktop/AulaPOOCelular/bin/Debug/net5.0/AulaPOOCelular.pdb
+/home/strongtech/Desktop/AulaPOOCelular/obj/Debug/net5.0/AulaPOOCelular.dll
+/home/strongtech/Desktop/AulaPOOCelular/obj/Debug/net5.0/ref/AulaPOOCelular.dll
+/home/strongtech/Desktop/AulaPOOCelular/obj/Debug/net5.0/AulaPOOCelular.pdb
+/home/strongtech/Desktop/AulaPOOCelular/obj/Debug/net5.0/AulaPOOCelular.genruntimeconfig.cache
